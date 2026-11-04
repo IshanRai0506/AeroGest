@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">AEROGEST — GESTURE-POWERED DESKTOP CONTROL</title><desc id="desc">COMPUTER VISION  /  HUMAN-COMPUTER INTERACTION</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1225"/><stop offset=".58" stop-color="#141c34"/><stop offset="1" stop-color="#25143b"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ca91ff"/><stop offset="1" stop-color="#9c8cff"/></linearGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#8295bd" stroke-opacity=".09" fill="none"/></pattern></defs>
+  <rect width="1280" height="320" rx="20" fill="url(#bg)"/><rect width="1280" height="320" rx="20" fill="url(#grid)"/>
+  <circle cx="115" cy="300" r="170" fill="#ca91ff" opacity=".08"/><circle cx="1200" cy="0" r="185" fill="#a26aff" opacity=".08"/>
+  <path d="M0 270Q280 220 520 270T980 258T1280 270" fill="none" stroke="url(#accent)" stroke-opacity=".3" stroke-width="2"/>
+  <rect x="56" y="48" width="8" height="206" rx="4" fill="url(#accent)"/>
+  <text x="94" y="89" fill="#93a7ce" font-family="monospace" font-size="15" letter-spacing="4">PROJECT / OPEN SOURCE WORK</text>
+  <text x="94" y="157" fill="#f4f7ff" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800" letter-spacing="1">AEROGEST</text>
+  <text x="96" y="199" fill="#ca91ff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="1">GESTURE-POWERED DESKTOP CONTROL</text>
+  <text x="96" y="244" fill="#b3c0db" font-family="monospace" font-size="13" letter-spacing="1.4">COMPUTER VISION  /  HUMAN-COMPUTER INTERACTION</text>
+  <g transform="translate(920 55)" fill="none" stroke="#ca91ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><path d="M102 194V105Q102 88 116 88Q130 88 130 105V143V54Q130 36 146 36Q162 36 162 54V135V75Q162 58 178 58Q194 58 194 75V146V100Q194 83 210 83Q226 83 226 100V177Q226 225 178 225H149Q115 225 94 193L63 151Q54 137 67 128Q80 119 91 133Z"/><circle cx="144" cy="28" r="6" fill="#ca91ff"><animate attributeName="opacity" values="1;.25;1" dur="1.5s" repeatCount="indefinite"/></circle></g>
+  <text x="1172" y="292" fill="#8294b7" font-family="monospace" font-size="11" text-anchor="end">ISHANRAI0506  /  GITHUB</text>
+</svg>
